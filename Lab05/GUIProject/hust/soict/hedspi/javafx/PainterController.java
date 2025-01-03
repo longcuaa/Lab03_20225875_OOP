@@ -1,4 +1,4 @@
-package hust.soict.cybersec.javafx;
+package hust.soict.hedspi.javafx;
 
 import java.net.URL;
 import java.util.ResourceBundle;
