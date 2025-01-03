@@ -1,8 +1,8 @@
-package hust.soict.dsai.test.media;
+package hust.soict.hedspi.test.media;
 
 import java.util.*;
 
-import hust.soict.dsai.aims.media.*;
+import hust.soict.hedspi.aims.media.*;
 
 public class MediaCompareTest {
     
