@@ -1,7 +1,7 @@
-package hust.soict.dsai.aims;
-import hust.soict.dsai.aims.cart.Cart;
-import hust.soict.dsai.aims.media.*;
-import hust.soict.dsai.aims.store.Store;
+package hust.soict.hedspi.aims;
+import hust.soict.hedspi.aims.cart.Cart;
+import hust.soict.hedspi.aims.media.*;
+import hust.soict.hedspi.aims.store.Store;
 import java.util.*;
 
 import javax.naming.LimitExceededException;
