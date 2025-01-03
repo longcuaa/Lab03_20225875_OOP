@@ -1,4 +1,4 @@
-package hust.soict.dsai.test.cart;
+package hust.soict.hedspi.test.cart;
 import javax.naming.LimitExceededException;
 
 import hust.soict.dsai.aims.cart.Cart;
