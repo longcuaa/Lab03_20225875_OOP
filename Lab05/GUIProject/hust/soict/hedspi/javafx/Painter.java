@@ -1,4 +1,4 @@
-package hust.soict.dsai.javafx;
+package hust.soict.hedspi.javafx;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
