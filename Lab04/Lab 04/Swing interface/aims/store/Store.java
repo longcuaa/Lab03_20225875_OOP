@@ -1,4 +1,4 @@
-package hust.soict.dsai.aims.store;
+package hust.soict.hedspi.aims.store;
 import java.util.ArrayList;
 import java.util.List;
 
