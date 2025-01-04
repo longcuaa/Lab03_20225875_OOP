@@ -1,4 +1,4 @@
-package hust.soict.dsai.aims.screen.manager;
+package hust.soict.hedspi.aims.screen.manager;
 
 import javax.swing.*;
 import java.awt.*;
